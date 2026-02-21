@@ -1,0 +1,25 @@
+{
+  "name": "af_lab_4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ChamaraJanith/AF_Lab_4#readme",
+  "bugs": {
+    "url": "https://github.com/ChamaraJanith/AF_Lab_4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChamaraJanith/AF_Lab_4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {}
+}
